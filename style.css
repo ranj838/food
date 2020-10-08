@@ -1,0 +1,28 @@
+
+
+body
+{
+background:url("img/mariana-medvedeva-fk6IiypMWss-unsplash.jpg")center/cover no-repeat fixed;
+}
+.form-div
+{
+    margin:50px auto 50px;
+    padding:25px 15px 10px 15px;
+    border:1px solid #80ced7;
+    border-radius:5px;
+    font-size: 1.1em;
+    font-family: 'Baloo Chettan 2', cursive;
+}
+.form-control:focus{
+    box-shadow: none;
+}
+form p
+{
+    font-size:.125;
+color:orange;
+}
+label
+{
+color:orange;
+font-size:30px;
+}
